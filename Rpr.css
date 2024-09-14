@@ -485,7 +485,7 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     .home-iconnav{
       display: flex;
       height: 50px;
-      width: 400px;
+      width: 600px;
       background-color: #460073;
       z-index: 999900;
     }
@@ -515,6 +515,7 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     }
     .img-home{
       width: 500px;
+        height:600px;
       object-fit: fill;
     }
     .home-div{
