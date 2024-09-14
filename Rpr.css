@@ -481,7 +481,7 @@ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     content: "\f00d";
   }
 
-  @media screen and (max-width : 480px){
+  @media (max-width : 600px){
     .home-iconnav{
       display: flex;
       height: 50px;
